@@ -96,7 +96,7 @@ Fictional examples, not claims about Pickles or any client:
 
 For substantial work, briefly state: delivered format and status; evidence checked; material edits; unresolved facts or publication conditions. Keep the working evidence ledger outside the final prose unless the user requested a research report. For a small edit, the corrected text alone can be sufficient.
 
-Package version: 1.0.0
+Package version: 1.0.1
 
 # Copy rules
 
@@ -244,7 +244,7 @@ Generalized lessons from project work contain no client-identifying content, pri
 
 Full MIT notices are included in `licenses/`. The Apache license is included in `LICENSE`.
 
-Version 0.5.0 of the original development repository introduced the editorial workflow and separate document uploads. This repository retains the editorial material; layered software verification remains in the development repository. Existing adapted rule IDs and attribution remain intact. The original research note remains in the private development repository at docs/research-2026-10-01.md; no third-party runtime or new verbatim guide is bundled.
+Version 0.5.0 of the original development repository introduced the editorial workflow and separate document uploads. This repository retains the editorial material; layered software verification remains in the development repository. Existing adapted rule IDs and attribution remain intact. The original research note remains in the development repository at docs/research-2026-10-01.md; no third-party runtime or new verbatim guide is bundled.
 
 # Apache-2.0 license
 

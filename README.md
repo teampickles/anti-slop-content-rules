@@ -1,6 +1,6 @@
 # Anti-Slop Content Rules
 
-Private Pickles content standard. Version 1.0.0. Canonical instructions are English, with Russian examples; usage guidance is bilingual.
+Public Pickles content standard. Version 1.0.1. Canonical instructions are English, with Russian examples; usage guidance is bilingual.
 
 Use [CONTENT-RULES.md](CONTENT-RULES.md) for articles, explainers, newsletters, posts, commercial copy and interface wording. It contains 26 copy rules, eight editorial rules, examples and complete notices. It requires no software project, build, deployment or engineering team for writing tasks.
 
@@ -22,4 +22,4 @@ python3 scripts/validate.py
 python3 -m unittest discover -s tests -v
 ```
 
-Build scripts maintain this package; they do not impose engineering tasks on authors. [Ownership and synchronization](SYNC.md). [Migration record](MIGRATION.md). [License](LICENSE), [notices](NOTICE.md). Keep this approach and assets private; existing historical license terms remain intact.
+Build scripts maintain this package; they do not impose engineering tasks on authors. [Ownership and synchronization](SYNC.md). [Migration record](MIGRATION.md). [License](LICENSE), [notices](NOTICE.md). This approach and its release assets are public; existing historical license terms remain intact.
